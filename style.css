@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+.friendhsip {
+    height:60%;
+    width:60%;
+}
+.friendship:hover {
+    -webkit-transform: scale(1.0);
+     -ms-transform: scale(1.0);
+       transform: scale(1.0);
+}
+.pink {
+    color:#9932CC;
+    background:#D1EEEE;
+  font-family: 'Raleway', sans-serif;
+}
+.fade
+{
+        opacity:0.5;
+        color:blue;
+}
+.fade:hover
+{
+        opacity:1;
+}
+.bump{
+    height:50%;
+    width:50%;
+}
+.minion {
+    height:50%;
+    width:50%;
+}
+.laugh {
+     height:50%;
+    width:50%;
+}
+.minion {
+    gh {
+     height:50%;
+    width:50%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
